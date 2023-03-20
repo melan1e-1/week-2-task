@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(126, 107, 111);
+  font-size: 20px ;
+  font-family: sans-serif; 
+  padding: 10px;
+}
+
+.signup-box{
+  width: 500px;
+  height: 700px;
+  margin: auto;
+  background-color: rgb(36, 133, 230);
+  border-radius: 20px;
+
+}
+
+h1 {
+  text-align: center;
+  color: rgb(18, 17, 17);
+  height: 40px;
+  padding-top: 20px;   
+}
+
+form{
+  width: 360px;
+  margin-left: 50px;
+}
+
+form label{
+  display: flex;
+  margin-top: 25px;
+  font-size: 20px;
+}
+
+form input{
+  width: 350px;
+  color: rgb(142, 159, 74);
+  background-color: wheat;
+  padding: 8px;
+  border: none;
+  border: 1px solid grey;
+  border-radius: 7px;
+  outline: none;
+}
+
+input[type="submit"]{
+  width: 320px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: darkturquoise;
+  color: rgb(6, 5, 14);
+  font-size: 18px;
+}
+ 
+legend{
+    text-align: left;
+    margin-left: 50px;
+}
+
+
